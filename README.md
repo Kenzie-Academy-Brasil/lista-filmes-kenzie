@@ -9,9 +9,9 @@ Projeto desenvolvido na maratona de programação da Kenzie Academy Brasil.
 
 ## Checkpoints
 
-1. [Introdução ao HTML](https://www.notion.so/kenzieacademybr/Checkpoint-a3bb93eeea17474b8a71a204d3202992)
-2. [Introdução ao CSS](https://www.notion.so/kenzieacademybr/Checkpoint-3d724cd4547046178d8ce1b1c0d7dccf)
-3. [Introdução ao Javascript](https://www.notion.so/kenzieacademybr/Checkpoint-9b7fc209e7bd4cadbeee4d8a5ed5cdc7)
+1. [Introdução ao HTML](https://kenzieacademybr.notion.site/Checkpoint-a3bb93eeea17474b8a71a204d3202992)
+2. [Introdução ao CSS](https://kenzieacademybr.notion.site/Checkpoint-3d724cd4547046178d8ce1b1c0d7dccf)
+3. [Introdução ao Javascript](https://kenzieacademybr.notion.site/Checkpoint-9b7fc209e7bd4cadbeee4d8a5ed5cdc7)
 
 ## O Projeto
 
