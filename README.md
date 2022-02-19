@@ -27,8 +27,7 @@ Projeto desenvolvido na maratona de programação da Kenzie Academy Brasil.
     - style.css
 
 ### Fonte
-
-- 'Quicksand', sans-serif;
+-  'Roboto', sans-serif;
 
 ### Cores
 
