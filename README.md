@@ -36,7 +36,7 @@ Projeto desenvolvido na maratona de programação da Kenzie Academy Brasil.
 - Preto principal: #1c1c1c;
 - Preto Secundario: #2f2f2f;
 - Branco: #ffffff;
-- Cinza principal: #;#e6e6e6
+- Cinza principal: #e6e6e6
 - Cinza Secundario: #666
 
 ## Layout
