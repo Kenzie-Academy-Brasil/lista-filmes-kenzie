@@ -52,3 +52,7 @@ Projeto desenvolvido na maratona de programação da Kenzie Academy Brasil.
 - [w3schools - js](https://www.w3schools.com/js/default.asp)
 - [Introdução CSS BEM](http://getbem.com/introduction/)
 - [CSS BEM](http://getbem.com/naming/)
+
+## Exercícios para praticar lógica de programação
+
+- [Codewars](https://codewars.com/)
