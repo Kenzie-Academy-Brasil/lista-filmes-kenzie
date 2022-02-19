@@ -27,19 +27,17 @@ Projeto desenvolvido na maratona de programação da Kenzie Academy Brasil.
     - style.css
 
 ### Fonte
--  'Roboto', sans-serif;
+
+- 'Roboto', sans-serif;
 
 ### Cores
 
-- Azul principal: ;
+- Preto: #000000;
+- Preto principal: #1c1c1c;
+- Preto Secundario: #2f2f2f;
 - Branco: #ffffff;
-- Branco principal com transparência: hsl(0deg 0% 100% / 90%);
-- Azul principal com transparência: hsl(228deg 70% 28% / 10%);
-- Vermelho com transparência: hsl(0deg 95% 44% / 5%);
-
-### Sombra
-
-- box-shadow: 3px 3px 14px -14px #4f4f4f
+- Cinza principal: #;#e6e6e6
+- Cinza Secundario: #666
 
 ## Layout
 
